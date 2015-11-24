@@ -1,0 +1,1 @@
+java -Djava.security.policy=sealed/policy.txt sealed.SealedClient 127.0.0.1:2000
